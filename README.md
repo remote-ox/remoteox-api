@@ -1,2 +1,3 @@
-# remoteox-api
-⚙️ The back-end infrastructure for Remote OX platform (API, database, queues, etc).
+# ⚙️ Remote OX API
+
+The backend infrastructure for Remote OX platform (API, database, queues, etc).
